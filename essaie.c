@@ -38,8 +38,7 @@ int main()
         moyenne = 0;
 
     printf("Moyenne des pairs = %.2f\n", moyenne);
-    printf("Nombre d'impairs = %d\n", nbImpairs);
-    printf("Somme des negatifs = %d\n", sommeNegatifs);
+
 
     return 0;
 }
