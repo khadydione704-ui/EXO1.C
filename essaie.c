@@ -37,7 +37,7 @@ int main()
     else
         moyenne = 0;
 
-    printf("le nombre d entiers impairs = %d\n", nbImpairs);
+    printf("la somme des entiers negatifs = %d\n", sommeNegatifs);
 
 
     return 0;
