@@ -37,7 +37,7 @@ int main()
     else
         moyenne = 0;
 
-    printf("Moyenne des pairs = %.2f\n", moyenne);
+    printf("le nombre d entiers impairs = %d\n", nbImpairs);
 
 
     return 0;
